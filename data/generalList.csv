@@ -24,7 +24,7 @@ Genghis Khan,1162,1227,Genghis Khan
 George Washington,1732,1799,George Washington
 Henry VIII,1491,1547,Henry VIII
 Hippocrates,-460,-370,Hippocrates
-Homer,-800,-750,Homer
+Homer,-800,-701,Homer
 Isaac Newton,1643,1727,Isaac Newton
 Ivan the Terrible,1530,1584,Ivan the Terrible
 James Madison,1751,1836,James Madison
@@ -35,7 +35,7 @@ John F. Kennedy,1917,1963,John F. Kennedy
 Julius Caesar,-100,-44,Julius Caesar
 Karl Marx,1818,1883,Karl Marx
 King Solomon,-990,-931,King Solomon
-Laozi (Lao Tzu),-601,-531,Laozi (Lao Tzu)
+Laozi (Lao Tzu),-571,-471,Laozi (Lao Tzu)
 Leonardo da Vinci,1452,1519,Leonardo da Vinci
 Louis XIV,1638,1715,Louis XIV
 Ludwig van Beethoven,1770,1827,Ludwig van Beethoven
@@ -46,7 +46,7 @@ Marie Curie,1867,1934,Marie Curie
 Martin Luther,1483,1546,Martin Luther
 Martin Luther King Jr.,1929,1968,Martin Luther King Jr.
 Michelangelo,1475,1564,Michelangelo
-Moses,-1391,-1271,Moses
+Moses,-1392,-1272,Moses
 Muhammad,570,632,Muhammad
 Napoleon Bonaparte,1769,1821,Napoleon Bonaparte
 Nelson Mandela,1918,2013,Nelson Mandela
@@ -125,24 +125,331 @@ Mustafa Kemal Atatürk,1881,1938,Mustafa Kemal Atatürk
 Nefertiti,-1370,-1330,Nefertiti
 Nero,37,68,Nero
 Niccolò Machiavelli,1469,1527,Niccolò Machiavelli
+Niccolo Paganini,1782,1840,Niccolo Paganini
 Norman Borlaug,1914,2009,Norman Borlaug
+Orville Wright,1871,1948,Orville Wright
 Oscar Wilde,1854,1900,Oscar Wilde
 Otto von Bismarck,1815,1898,Otto von Bismarck
 Pablo Neruda,1904,1973,Pablo Neruda
-Pancho Villa,1878,1923,Pancho Villa
-Pythagoras,-570,-495,Pythagoras
-Queen Elizabeth II,1926,2022,Queen Elizabeth II
-René Magritte,1898,1967,René Magritte
-Robert Boyle,1627,1691,Robert Boyle
-Rudyard Kipling,1865,1936,Rudyard Kipling
-Samuel Morse,1791,1872,Samuel Morse
-Sappho,-630,-570,Sappho
-Stephen Hawking,1942,2018,Stephen Hawking
-Suleiman the Magnificent,1494,1566,Suleiman the Magnificent
-Tamerlane,1336,1405,Tamerlane
-Tecumseh,1768,1813,Tecumseh
-Thomas Hobbes,1588,1679,Thomas Hobbes
-Toussaint Louverture,1743,1803,Toussaint Louverture
-Vasco da Gama,1469,1524,Vasco da Gama
-William the Conqueror,1028,1087,William the Conqueror
-Yuri Gagarin,1934,1968,Yuri Gagarin
+Pierre Curie,1859,1906,Pierre Curie
+Rachel Carson,1907,1964,Rachel Carson
+Ralph Waldo Emerson,1803,1882,Ralph Waldo Emerson
+Robert Oppenheimer,1904,1967,Robert Oppenheimer
+Roald Amundsen,1872,1928,Roald Amundsen
+Salvador Dalí,1904,1989,Salvador Dalí
+Simón Bolívar,1783,1830,Simón Bolívar
+Sojourner Truth,1797,1883,Sojourner Truth
+Virginia Woolf,1882,1941,Virginia Woolf
+Walt Whitman,1819,1892,Walt Whitman
+Werner Heisenberg,1901,1976,Werner Heisenberg
+Ada Lovelace,1815,1852,Ada Lovelace
+Alfred Nobel,1833,1896,Alfred Nobel
+Andy Warhol,1928,1987,Andy Warhol
+Anna Pavlova,1881,1931,Anna Pavlova
+Bertrand Russell,1872,1970,Bertrand Russell
+Charlie Chaplin,1889,1977,Charlie Chaplin
+Claude Monet,1840,1926,Claude Monet
+Diego Rivera,1886,1957,Diego Rivera
+Ernest Rutherford,1871,1937,Ernest Rutherford
+Franz Schubert,1797,1828,Franz Schubert
+Frida Kahlo,1907,1954,Frida Kahlo
+George Gershwin,1898,1937,George Gershwin
+Grace Hopper,1906,1992,Grace Hopper
+Gustav Mahler,1860,1911,Gustav Mahler
+Harriet Tubman,1822,1913,Harriet Tubman
+Henri Matisse,1869,1954,Henri Matisse
+Igor Sikorsky,1889,1972,Igor Sikorsky
+Indira Gandhi,1917,1984,Indira Gandhi
+Jackie Robinson,1919,1972,Jackie Robinson
+Jean Piaget,1896,1980,Jean Piaget
+Johannes Kepler,1571,1630,Johannes Kepler
+John von Neumann,1903,1957,John von Neumann
+Katherine Johnson,1918,2020,Katherine Johnson
+Leo Tolstoy,1828,1910,Leo Tolstoy
+Lise Meitner,1878,1968,Lise Meitner
+Margaret Mead,1901,1978,Margaret Mead
+Marie-Louise von Franz,1915,1998,Marie-Louise von Franz
+Maya Angelou,1928,2014,Maya Angelou
+Mikhail Baryshnikov,1948,,Mikhail Baryshnikov
+Niels Bohr,1885,1962,Niels Bohr
+Octavio Paz,1914,1998,Octavio Paz
+Paul Cézanne,1839,1906,Paul Cézanne
+Paul Dirac,1902,1984,Paul Dirac
+Paul Klee,1879,1940,Paul Klee
+Richard Wagner,1813,1883,Richard Wagner
+Robert Koch,1843,1910,Robert Koch
+Rosa Luxemburg,1871,1919,Rosa Luxemburg
+Rosalind Franklin,1920,1958,Rosalind Franklin
+Rudolf Nureyev,1938,1993,Rudolf Nureyev
+Sarah Bernhardt,1844,1923,Sarah Bernhardt
+Sergei Rachmaninoff,1873,1943,Sergei Rachmaninoff
+Stan Lee,1922,2018,Stan Lee
+Steve Jobs,1955,2011,Steve Jobs
+Temple Grandin,1947,,Temple Grandin
+Thomas Mann,1875,1955,Thomas Mann
+Wassily Kandinsky,1866,1944,Wassily Kandinsky
+Yoko Ono,1933,,Yoko Ono
+Zora Neale Hurston,1891,1960,Zora Neale Hurston
+Zhuangzi,-369,-286,Zhuangzi
+Zitkala-Sa,1876,1938,Zitkala-Sa
+Zaha Hadid,1950,2016,Zaha Hadid
+Akhenaten,-1380,-1334,Akhenaten
+Al-Khwarizmi,780,850,Al-Khwarizmi
+Ansel Adams,1902,1984,Ansel Adams
+Antoni Gaudí,1852,1926,Antoni Gaudí
+Arthur Conan Doyle,1859,1930,Arthur Conan Doyle
+Audrey Hepburn,1929,1993,Audrey Hepburn
+B.F. Skinner,1904,1990,B.F. Skinner
+Barbara McClintock,1902,1992,Barbara McClintock
+Bill Gates,1955,,Bill Gates
+Bob Dylan,1941,,Bob Dylan
+Boris Pasternak,1890,1960,Boris Pasternak
+C.S. Lewis,1898,1963,C.S. Lewis
+Carl Sagan,1934,1996,Carl Sagan
+Cesar Chavez,1927,1993,Cesar Chavez
+Chuck Berry,1926,2017,Chuck Berry
+Claude Debussy,1862,1918,Claude Debussy
+Daniel Boone,1734,1820,Daniel Boone
+David Livingstone,1813,1873,David Livingstone
+Dorothy Hodgkin,1910,1994,Dorothy Hodgkin
+Duke of Wellington,1769,1852,Duke of Wellington
+Edith Piaf,1915,1963,Edith Piaf
+Edward Jenner,1749,1823,Edward Jenner
+Ella Fitzgerald,1917,1996,Ella Fitzgerald
+Emiliano Zapata,1879,1919,Emiliano Zapata
+Emmy Noether,1882,1935,Emmy Noether
+Erwin Schrödinger,1887,1961,Erwin Schrödinger
+Eugene O'Neill,1888,1953,Eugene O'Neill
+Ezra Pound,1885,1972,Ezra Pound
+Federico García Lorca,1898,1936,Federico García Lorca
+Felix Mendelssohn,1809,1847,Felix Mendelssohn
+Francis Bacon,1561,1626,Francis Bacon
+Franz Liszt,1811,1886,Franz Liszt
+Frederick Law Olmsted,1822,1903,Frederick Law Olmsted
+Gabriel García Márquez,1927,2014,Gabriel García Márquez
+George Eastman,1854,1932,George Eastman
+George Sand,1804,1876,George Sand
+Georges Seurat,1859,1891,Georges Seurat
+Giuseppe Verdi,1813,1901,Giuseppe Verdi
+Golda Meir,1898,1978,Golda Meir
+Hans Christian Andersen,1805,1875,Hans Christian Andersen
+Harry Houdini,1874,1926,Harry Houdini
+Henry David Thoreau,1817,1862,Henry David Thoreau
+Henry Ford,1863,1947,Henry Ford
+Hermann Hesse,1877,1962,Hermann Hesse
+Horatio Nelson,1758,1805,Horatio Nelson
+Hubert H. Humphrey,1911,1978,Hubert H. Humphrey
+Ingmar Bergman,1918,2007,Ingmar Bergman
+Jack London,1876,1916,Jack London
+James Clerk Maxwell,1831,1879,James Clerk Maxwell
+James Watt,1736,1819,James Watt
+Jane Goodall,1934,,Jane Goodall
+Jean-Paul Sartre,1905,1980,Jean-Paul Sartre
+Jesse Owens,1913,1980,Jesse Owens
+Jim Thorpe,1887,1953,Jim Thorpe
+John Muir,1838,1914,John Muir
+Jorge Luis Borges,1899,1986,Jorge Luis Borges
+Joseph Campbell,1904,1987,Joseph Campbell
+Julia Child,1912,2004,Julia Child
+Käthe Kollwitz,1867,1945,Käthe Kollwitz
+Kurt Gödel,1906,1978,Kurt Gödel
+Laura Ingalls Wilder,1867,1957,Laura Ingalls Wilder
+Lawrence of Arabia,1888,1935,Lawrence of Arabia
+Louis Braille,1809,1852,Louis Braille
+Louise Bourgeois,1911,2010,Louise Bourgeois
+Marian Anderson,1897,1993,Marian Anderson
+Martha Graham,1894,1991,Martha Graham
+Mary Cassatt,1844,1926,Mary Cassatt
+Max Born,1882,1970,Max Born
+Michael Faraday,1791,1867,Michael Faraday
+Milton Friedman,1912,2006,Milton Friedman
+Monet,1840,1926,Monet
+Nathaniel Hawthorne,1804,1864,Nathaniel Hawthorne
+Neil Armstrong,1930,2012,Neil Armstrong
+Orson Welles,1915,1985,Orson Welles
+Paul Ehrlich,1854,1915,Paul Ehrlich
+Pearl Buck,1892,1973,Pearl Buck
+Peter Paul Rubens,1577,1640,Peter Paul Rubens
+Philip K. Dick,1928,1982,Philip K. Dick
+Pierre-Auguste Renoir,1841,1919,Pierre-Auguste Renoir
+Robert Frost,1874,1963,Robert Frost
+Robert Louis Stevenson,1850,1894,Robert Louis Stevenson
+Roberto Clemente,1934,1972,Roberto Clemente
+Roger Williams,1603,1683,Roger Williams
+Samuel Beckett,1906,1989,Samuel Beckett
+Sandra Day O'Connor,1930,,Sandra Day O'Connor
+Simone de Beauvoir,1908,1986,Simone de Beauvoir
+Susan Sontag,1933,2004,Susan Sontag
+Sylvia Plath,1932,1963,Sylvia Plath
+T.S. Eliot,1888,1965,T.S. Eliot
+Tennessee Williams,1911,1983,Tennessee Williams
+Thurgood Marshall,1908,1993,Thurgood Marshall
+Tom Stoppard,1937,,Tom Stoppard
+Toni Morrison,1931,2019,Toni Morrison
+Vaclav Havel,1936,2011,Vaclav Havel
+Victor Hugo,1802,1885,Victor Hugo
+W.B. Yeats,1865,1939,W.B. Yeats
+W.E.B. Du Bois,1868,1963,W.E.B. Du Bois
+Walter Gropius,1883,1969,Walter Gropius
+Willem de Kooning,1904,1997,Willem de Kooning
+William Butler Yeats,1865,1939,William Butler Yeats
+William Carlos Williams,1883,1963,William Carlos Williams
+Willa Cather,1873,1947,Willa Cather
+Yukio Mishima,1925,1970,Yukio Mishima
+Zubin Mehta,1936,,Zubin Mehta
+Albert Camus,1913,1960,Albert Camus
+Alfred Wegener,1880,1930,Alfred Wegener
+Alice Paul,1885,1977,Alice Paul
+Amedeo Modigliani,1884,1920,Amedeo Modigliani
+Annie Oakley,1860,1926,Annie Oakley
+Arthur Miller,1915,2005,Arthur Miller
+Babe Ruth,1895,1948,Babe Ruth
+Beatrix Potter,1866,1943,Beatrix Potter
+Buckminster Fuller,1895,1983,Buckminster Fuller
+Carl Rogers,1902,1987,Carl Rogers
+Charles Lindbergh,1902,1974,Charles Lindbergh
+D.H. Lawrence,1885,1930,D.H. Lawrence
+Dmitri Mendeleev,1834,1907,Dmitri Mendeleev
+E.M. Forster,1879,1970,E.M. Forster
+Edna St. Vincent Millay,1892,1950,Edna St. Vincent Millay
+Edwin Hubble,1889,1953,Edwin Hubble
+Elizabeth Blackwell,1821,1910,Elizabeth Blackwell
+Émile Zola,1840,1902,Émile Zola
+Enrico Caruso,1873,1921,Enrico Caruso
+Erik Erikson,1902,1994,Erik Erikson
+Erwin Rommel,1891,1944,Erwin Rommel
+Flannery O'Connor,1925,1964,Flannery O'Connor
+Frank Sinatra,1915,1998,Frank Sinatra
+Fritz Haber,1868,1934,Fritz Haber
+George Bernard Shaw,1856,1950,George Bernard Shaw
+George Marshall,1880,1959,George Marshall
+George Patton,1885,1945,George Patton
+Gertrude Stein,1874,1946,Gertrude Stein
+Guillaume Apollinaire,1880,1918,Guillaume Apollinaire
+Gustave Eiffel,1832,1923,Gustave Eiffel
+H.L. Mencken,1880,1956,H.L. Mencken
+Harriet Beecher Stowe,1811,1896,Harriet Beecher Stowe
+Henri Poincaré,1854,1912,Henri Poincaré
+Henry Moore,1898,1986,Henry Moore
+Isadora Duncan,1877,1927,Isadora Duncan
+J.R.R. Tolkien,1892,1973,J.R.R. Tolkien
+Jackson Pollock,1912,1956,Jackson Pollock
+Jacob Riis,1849,1914,Jacob Riis
+Jean Cocteau,1889,1963,Jean Cocteau
+John Dewey,1859,1952,John Dewey
+John Steinbeck,1902,1968,John Steinbeck
+Joseph Conrad,1857,1924,Joseph Conrad
+Judy Garland,1922,1969,Judy Garland
+Louis Sullivan,1856,1924,Louis Sullivan
+Margaret Sanger,1879,1966,Margaret Sanger
+Maria Callas,1923,1977,Maria Callas
+Marie Stopes,1880,1958,Marie Stopes
+Martin Buber,1878,1965,Martin Buber
+Mary Leakey,1913,1996,Mary Leakey
+Max Weber,1864,1920,Max Weber
+Maxfield Parrish,1870,1966,Maxfield Parrish
+Oliver Wendell Holmes,1841,1935,Oliver Wendell Holmes
+Paul Gauguin,1848,1903,Paul Gauguin
+Paul Robeson,1898,1976,Paul Robeson
+Pierre Teilhard de Chardin,1881,1955,Pierre Teilhard de Chardin
+Rabindranath Tagore,1861,1941,Rabindranath Tagore
+Richard Strauss,1864,1949,Richard Strauss
+Robert Goddard,1882,1945,Robert Goddard
+Robert Schumann,1810,1856,Robert Schumann
+Roentgen,1845,1923,Roentgen
+Romain Rolland,1866,1944,Romain Rolland
+Sinclair Lewis,1885,1951,Sinclair Lewis
+Somerset Maugham,1874,1965,Somerset Maugham
+Sophie Scholl,1921,1943,Sophie Scholl
+Theodor Adorno,1903,1969,Theodor Adorno
+Thomas Hardy,1840,1928,Thomas Hardy
+Thomas Merton,1915,1968,Thomas Merton
+Vladimir Nabokov,1899,1977,Vladimir Nabokov
+Wallace Stevens,1879,1955,Wallace Stevens
+Walter Benjamin,1892,1940,Walter Benjamin
+Wassily Leontief,1906,1999,Wassily Leontief
+Wernher von Braun,1912,1977,Wernher von Braun
+Wilhelm Reich,1897,1957,Wilhelm Reich
+William Randolph Hearst,1863,1951,William Randolph Hearst
+Winslow Homer,1836,1910,Winslow Homer
+Wyatt Earp,1848,1929,Wyatt Earp
+Zane Grey,1872,1939,Zane Grey
+Zelda Fitzgerald,1900,1948,Zelda Fitzgerald
+Albert Schweitzer,1875,1965,Albert Schweitzer
+Anna Freud,1895,1982,Anna Freud
+Bertolt Brecht,1898,1956,Bertolt Brecht
+Carl Sandburg,1878,1967,Carl Sandburg
+Dorothy Day,1897,1980,Dorothy Day
+Edvard Munch,1863,1944,Edvard Munch
+George Santayana,1863,1952,George Santayana
+Irving Berlin,1888,1989,Irving Berlin
+Karen Horney,1885,1952,Karen Horney
+Linus Pauling,1901,1994,Linus Pauling
+Margaret Atwood,1939,,Margaret Atwood
+Norman Rockwell,1894,1978,Norman Rockwell
+Oskar Schindler,1908,1974,Oskar Schindler
+Paul Tillich,1886,1965,Paul Tillich
+Simone Weil,1909,1943,Simone Weil
+Umberto Eco,1932,2016,Umberto Eco
+Virginia Lee Burton,1909,1968,Virginia Lee Burton
+Walker Evans,1903,1975,Walker Evans
+Xavier Cugat,1900,1990,Xavier Cugat
+Alan Lomax,1915,2002,Alan Lomax
+Dorothy Parker,1893,1967,Dorothy Parker
+Edward Hopper,1882,1967,Edward Hopper
+Isak Dinesen,1885,1962,Isak Dinesen
+Kurt Vonnegut,1922,2007,Kurt Vonnegut
+Nina Simone,1933,2003,Nina Simone
+Ralph Ellison,1914,1994,Ralph Ellison
+Saul Bellow,1915,2005,Saul Bellow
+Upton Sinclair,1878,1968,Upton Sinclair
+Vita Sackville-West,1892,1962,Vita Sackville-West
+Xu Beihong,1895,1953,Xu Beihong
+Yasunari Kawabata,1899,1972,Yasunari Kawabata
+Agnes de Mille,1905,1993,Agnes de Mille
+Charlie Parker,1920,1955,Charlie Parker
+Frank Capra,1897,1991,Frank Capra
+Hedy Lamarr,1914,2000,Hedy Lamarr
+Jean Renoir,1894,1979,Jean Renoir
+Katherine Dunham,1909,2006,Katherine Dunham
+Oscar Peterson,1925,2007,Oscar Peterson
+Pablo Casals,1876,1973,Pablo Casals
+Quincy Jones,1933,,Quincy Jones
+Ray Charles,1930,2004,Ray Charles
+Sarah Vaughan,1924,1990,Sarah Vaughan
+Ustad Bismillah Khan,1916,2006,Ustad Bismillah Khan
+Vladimir Horowitz,1903,1989,Vladimir Horowitz
+Wanda Landowska,1879,1959,Wanda Landowska
+Zoltán Kodály,1882,1967,Zoltán Kodály
+Aaron Copland,1900,1990,Aaron Copland
+Benjamin Britten,1913,1976,Benjamin Britten
+Carlos Chavez,1899,1978,Carlos Chavez
+Dmitri Shostakovich,1906,1975,Dmitri Shostakovich
+Edgard Varèse,1883,1965,Edgard Varèse
+Francis Poulenc,1899,1963,Francis Poulenc
+Gustav Holst,1874,1934,Gustav Holst
+Henry Cowell,1897,1965,Henry Cowell
+Iannis Xenakis,1922,2001,Iannis Xenakis
+Karlheinz Stockhausen,1928,2007,Karlheinz Stockhausen
+Leonard Bernstein,1918,1990,Leonard Bernstein
+Maurice Ravel,1875,1937,Maurice Ravel
+Nadia Boulanger,1887,1979,Nadia Boulanger
+Olivier Messiaen,1908,1992,Olivier Messiaen
+Paul Hindemith,1895,1963,Paul Hindemith
+Ralph Vaughan Williams,1872,1958,Ralph Vaughan Williams
+Samuel Barber,1910,1981,Samuel Barber
+Toru Takemitsu,1930,1996,Toru Takemitsu
+Umberto Giordano,1867,1948,Umberto Giordano
+Virgil Thomson,1896,1989,Virgil Thomson
+William Walton,1902,1983,William Walton
+Xavier Montsalvatge,1912,2002,Xavier Montsalvatge
+Yannis Constantinidis,1903,1984,Yannis Constantinidis
+Zdeněk Fibich,1850,1900,Zdeněk Fibich
+Alberto Ginastera,1916,1983,Alberto Ginastera
+Béla Bartók,1881,1945,Béla Bartók
+Carl Orff,1895,1982,Carl Orff
+Darius Milhaud,1892,1974,Darius Milhaud
+Erik Satie,1866,1925,Erik Satie
+Frederick Delius,1862,1934,Frederick Delius
+George Enescu,1881,1955,George Enescu
+Heitor Villa-Lobos,1887,1959,Heitor Villa-Lobos
