@@ -1,0 +1,151 @@
+Author,Birth Year,Death Year,Display Name
+Albert Einstein,1879,1955.0,Albert Einstein
+Isaac Newton,1643,1727.0,Isaac Newton
+Charles Darwin,1809,1882.0,Charles Darwin
+Nikola Tesla,1856,1943.0,Nikola Tesla
+Galileo Galilei,1564,1642.0,Galileo Galilei
+Marie Curie,1867,1934.0,Marie Curie
+Stephen Hawking,1942,2018.0,Stephen Hawking
+Carl Sagan,1934,1996.0,Carl Sagan
+Richard Feynman,1918,1988.0,Richard Feynman
+James Clerk Maxwell,1831,1879.0,James Clerk Maxwell
+Michael Faraday,1791,1867.0,Michael Faraday
+Alan Turing,1912,1954.0,Alan Turing
+Johannes Kepler,1571,1630.0,Johannes Kepler
+Euclid,-325,-265.0,Euclid
+Archimedes,-287,-212.0,Archimedes
+Pythagoras,-570,-495.0,Pythagoras
+Rosalind Franklin,1920,1958.0,Rosalind Franklin
+Gregor Mendel,1822,1884.0,Gregor Mendel
+Dmitri Mendeleev,1834,1907.0,Dmitri Mendeleev
+Linus Pauling,1901,1994.0,Linus Pauling
+Niels Bohr,1885,1962.0,Niels Bohr
+Ernest Rutherford,1871,1937.0,Ernest Rutherford
+Max Planck,1858,1947.0,Max Planck
+Werner Heisenberg,1901,1976.0,Werner Heisenberg
+Erwin Schrödinger,1887,1961.0,Erwin Schrödinger
+Paul Dirac,1902,1984.0,Paul Dirac
+Louis Pasteur,1822,1895.0,Louis Pasteur
+Robert Hooke,1635,1703.0,Robert Hooke
+Antoine Lavoisier,1743,1794.0,Antoine Lavoisier
+Emil Fischer,1852,1919.0,Emil Fischer
+Barbara McClintock,1902,1992.0,Barbara McClintock
+Florence Nightingale,1820,1910.0,Florence Nightingale
+Carl Linnaeus,1707,1778.0,Carl Linnaeus
+Rachel Carson,1907,1964.0,Rachel Carson
+Francis Crick,1916,2004.0,Francis Crick
+James Watson,1928,,James Watson
+Hans Christian Ørsted,1777,1851.0,Hans Christian Ørsted
+Henri Poincaré,1854,1912.0,Henri Poincaré
+Benoît Mandelbrot,1924,2010.0,Benoît Mandelbrot
+Thomas Edison,1847,1931.0,Thomas Edison
+Benjamin Franklin,1706,1790.0,Benjamin Franklin
+Claude Shannon,1916,2001.0,Claude Shannon
+John von Neumann,1903,1957.0,John von Neumann
+Norbert Wiener,1894,1964.0,Norbert Wiener
+Ada Lovelace,1815,1852.0,Ada Lovelace
+George Boole,1815,1864.0,George Boole
+Joseph Fourier,1768,1830.0,Joseph Fourier
+Pierre-Simon Laplace,1749,1827.0,Pierre-Simon Laplace
+Ludwig Boltzmann,1844,1906.0,Ludwig Boltzmann
+Hermann von Helmholtz,1821,1894.0,Hermann von Helmholtz
+Alfred Wegener,1880,1930.0,Alfred Wegener
+J. Robert Oppenheimer,1904,1967.0,J. Robert Oppenheimer
+Enrico Fermi,1901,1954.0,Enrico Fermi
+Subrahmanyan Chandrasekhar,1910,1995.0,Subrahmanyan Chandrasekhar
+Richard Dawkins,1941,,Richard Dawkins
+E.O. Wilson,1929,2021.0,E.O. Wilson
+Jane Goodall,1934,,Jane Goodall
+Alexander Fleming,1881,1955.0,Alexander Fleming
+Frederick Banting,1891,1941.0,Frederick Banting
+John Dalton,1766,1844.0,John Dalton
+William Harvey,1578,1657.0,William Harvey
+Gerty Cori,1896,1957.0,Gerty Cori
+Hermann Minkowski,1864,1909.0,Hermann Minkowski
+Edward Jenner,1749,1823.0,Edward Jenner
+Tycho Brahe,1546,1601.0,Tycho Brahe
+Christian Doppler,1803,1853.0,Christian Doppler
+Edwin Hubble,1889,1953.0,Edwin Hubble
+Vesto Slipher,1875,1969.0,Vesto Slipher
+Cecilia Payne-Gaposchkin,1900,1979.0,Cecilia Payne-Gaposchkin
+Fritz Haber,1868,1934.0,Fritz Haber
+Murray Gell-Mann,1929,2019.0,Murray Gell-Mann
+Lev Landau,1908,1968.0,Lev Landau
+Lise Meitner,1878,1968.0,Lise Meitner
+Max Born,1882,1970.0,Max Born
+Abdus Salam,1926,1996.0,Abdus Salam
+Steven Weinberg,1933,2021.0,Steven Weinberg
+Kip Thorne,1940,,Kip Thorne
+Brian Greene,1963,,Brian Greene
+Sean Carroll,1966,,Sean Carroll
+John Archibald Wheeler,1911,2008.0,John Archibald Wheeler
+Roger Penrose,1931,,Roger Penrose
+Freeman Dyson,1923,2020.0,Freeman Dyson
+Guglielmo Marconi,1874,1937.0,Guglielmo Marconi
+Werner von Siemens,1816,1892.0,Werner von Siemens
+Michael Atiyah,1929,2019.0,Michael Atiyah
+Grigori Perelman,1966,,Grigori Perelman
+Andrew Wiles,1953,,Andrew Wiles
+John Nash,1928,2015.0,John Nash
+Henrietta Swan Leavitt,1868,1921.0,Henrietta Swan Leavitt
+William Thomson,1824,1907.0,William Thomson
+Blaise Pascal,1623,1662.0,Blaise Pascal
+Leonhard Euler,1707,1783.0,Leonhard Euler
+Gottfried Wilhelm Leibniz,1646,1716.0,Gottfried Wilhelm Leibniz
+René Descartes,1596,1650.0,René Descartes
+Kurt Gödel,1906,1978.0,Kurt Gödel
+David Hilbert,1862,1943.0,David Hilbert
+Carl Friedrich Gauss,1777,1855.0,Carl Friedrich Gauss
+Mary Anning,1799,1847.0,Mary Anning
+Charles Lyell,1797,1875.0,Charles Lyell
+Alfred Russel Wallace,1823,1913.0,Alfred Russel Wallace
+Thomas Huxley,1825,1895.0,Thomas Huxley
+Edwin Schrödinger,1887,1961.0,Edwin Schrödinger
+Jonas Salk,1914,1995.0,Jonas Salk
+Kary Mullis,1944,2019.0,Kary Mullis
+Paul Ehrlich,1854,1915.0,Paul Ehrlich
+Rita Levi-Montalcini,1909,2012.0,Rita Levi-Montalcini
+Tu Youyou,1930,,Tu Youyou
+Tim Berners-Lee,1955,,Tim Berners-Lee
+Vint Cerf,1943,,Vint Cerf
+Donald Knuth,1938,,Donald Knuth
+Alan Kay,1940,,Alan Kay
+Douglas Engelbart,1925,2013.0,Douglas Engelbart
+John Bardeen,1908,1991.0,John Bardeen
+Walter Brattain,1902,1987.0,Walter Brattain
+William Shockley,1910,1989.0,William Shockley
+Wilhelm Röntgen,1845,1923.0,Wilhelm Röntgen
+Henri Becquerel,1852,1908.0,Henri Becquerel
+Paul Langevin,1872,1946.0,Paul Langevin
+Rudolf Virchow,1821,1902.0,Rudolf Virchow
+Santiago Ramón y Cajal,1852,1934.0,Santiago Ramón y Cajal
+Thomas Hunt Morgan,1866,1945.0,Thomas Hunt Morgan
+Hermann Staudinger,1881,1965.0,Hermann Staudinger
+Robert Koch,1843,1910.0,Robert Koch
+Hans Bethe,1906,2005.0,Hans Bethe
+Victor Hess,1883,1964.0,Victor Hess
+James Chadwick,1891,1974.0,James Chadwick
+Irving Langmuir,1881,1957.0,Irving Langmuir
+Glenn T. Seaborg,1912,1999.0,Glenn T. Seaborg
+Charles Babbage,1791,1871.0,Charles Babbage
+John Logie Baird,1888,1946.0,John Logie Baird
+Hedy Lamarr,1914,2000.0,Hedy Lamarr
+Nikolaus Otto,1832,1891.0,Nikolaus Otto
+Rudolf Diesel,1858,1913.0,Rudolf Diesel
+Karl Benz,1844,1929.0,Karl Benz
+Leonardo da Vinci,1452,1519.0,Leonardo da Vinci
+Ibn al-Haytham,965,1040.0,Ibn al-Haytham
+Al-Khwarizmi,780,850.0,Al-Khwarizmi
+Omar Khayyam,1048,1131.0,Omar Khayyam
+Avicenna,980,1037.0,Avicenna
+Robert Boyle,1627,1691.0,Robert Boyle
+Evangelista Torricelli,1608,1647.0,Evangelista Torricelli
+Blaise Pascal,1623,1662.0,Blaise Pascal
+Christian Huygens,1629,1695.0,Christian Huygens
+Antoine-Henri Becquerel,1852,1908.0,Antoine-Henri Becquerel
+Daniel Bernoulli,1700,1782.0,Daniel Bernoulli
+André-Marie Ampère,1775,1836.0,André-Marie Ampère
+Georg Ohm,1789,1854.0,Georg Ohm
+Gustav Kirchhoff,1824,1887.0,Gustav Kirchhoff
+Hans Geiger,1882,1945.0,Hans Geiger
+Augustin-Jean Fresnel,1788,1827.0,Augustin-Jean Fresnel
